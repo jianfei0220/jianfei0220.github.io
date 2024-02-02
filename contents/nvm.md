@@ -5,14 +5,14 @@ NVM (Node Version Manager) 是一个用于管理 Node.js 版本的工具。
 
 ### 1、以下是 nvm 的常用操作指令：
 
-查看可安装的版本：nvm ls-remote
-列出所有安装的版本：nvm ls
-显示当前使用的版本：nvm current
-安装指定的版本：nvm install `<version>`
-卸载指定的版本：nvm uninstall `<version>`
-切换使用指定的版本：nvm use `<version>`
-指定默认版本（需重启终端）：nvm alias default `<version>`
-安装最新版 node：nvm install stable
+查看可安装的版本：`nvm ls-remote`  
+列出所有安装的版本：`nvm ls`  
+显示当前使用的版本：`nvm current`  
+安装指定的版本：`nvm install <version>`  
+卸载指定的版本：`nvm uninstall <version>`  
+切换使用指定的版本：`nvm use <version>`  
+指定默认版本（需重启终端）：`nvm alias default <version>`  
+安装最新版 node：`nvm install stable`
 
 ### 2、nvm-desktop 可视化管理工具
 

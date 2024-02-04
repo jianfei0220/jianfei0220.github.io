@@ -1,7 +1,7 @@
 - vue-cli 脚手架
 
-  - [npm 镜像](contents/npm)
-  - [vueCli 路由](contents/router)
+  - [npm 镜像源](contents/npm)
+  - [vue 组件分块](contents/router)
   - [nvm 常用命令](contents/nvm)
   - [package.json 文件总结](contents/package)
 

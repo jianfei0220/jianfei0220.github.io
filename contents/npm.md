@@ -1,10 +1,10 @@
-# 域名更新
+## 域名更新
 
 原淘宝 npm 域名即将停止解析，请切换至新域名 [npmmirror.com](http://www.npmmirror.com/)
 
 `http://npm.taobao.org` 和 `http://registry.npm.taobao.org` 将在 2022.06.30  号正式下线和停止 DNS 解析。
 
-新域名为`npmmirror.com`, 相关服务域名切换规则请参考：
+新域名为 `npmmirror.com`, 相关服务域名切换规则请参考：
 
 ```bash
 http://npm.taobao.org => http://npmmirror.com
@@ -23,7 +23,7 @@ npm ERR! errno CERT_HAS_EXPIRED
 npm ERR! request to https://registry.npm.taobao.org/vant failed, reason: certificate has expired
 ```
 
-# npm 镜像源
+## npm 镜像源
 
 1.设置镜像源（切换新的镜像源）：`--registry`  临时使用镜像；`registry`  持久配置镜像。
 
